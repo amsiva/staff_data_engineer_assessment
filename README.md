@@ -1,6 +1,6 @@
 # staff_data_engineer_assessment
 
-The following questions will be used to assess your ability to design, architect maintainable and scalable code.   
+The following questions will be used to assess your ability to design, architect maintainable and scalable code.   Please fork this repo.
 
 Submit everything needed to execute and validate your solutions for each of your answers.
 
